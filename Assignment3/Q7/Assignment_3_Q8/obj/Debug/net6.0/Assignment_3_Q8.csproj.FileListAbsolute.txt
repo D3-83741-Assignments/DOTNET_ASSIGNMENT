@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\bin\Debug\net6.0\Assignment_3_Q8.deps.json
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\bin\Debug\net6.0\Assignment_3_Q8.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\bin\Debug\net6.0\Assignment_3_Q8.pdb
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.AssemblyInfo.cs
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\refint\Assignment_3_Q8.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\Assignment_3_Q8.pdb
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q8\obj\Debug\net6.0\ref\Assignment_3_Q8.dll

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Question18/1.0.0": {
+        "dependencies": {
+          "MathsInstance": "1.0.0",
+          "MathsStatic": "1.0.0"
+        },
+        "runtime": {
+          "Question18.dll": {}
+        }
+      },
+      "MathsInstance/1.0.0": {
+        "runtime": {
+          "MathsInstance.dll": {}
+        }
+      },
+      "MathsStatic/1.0.0": {
+        "runtime": {
+          "MathsStatic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsInstance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsStatic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunbeam\\Desktop\\Dac Assignments\\Dotnet_Assignments\\Assignment8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654A260A-30B5-4F3D-8496-DCA943C91F08}|Question18\\Question18.csproj|c:\\users\\sunbeam\\desktop\\dac assignments\\dotnet_assignments\\assignment8\\question18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654A260A-30B5-4F3D-8496-DCA943C91F08}|Question18\\Question18.csproj|solutionrelative:question18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C692E65-31B1-45F3-B170-0F88101A0D3D}|MathsInstance\\MathsInstance.csproj|c:\\users\\sunbeam\\desktop\\dac assignments\\dotnet_assignments\\assignment8\\mathsinstance\\mathsinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C692E65-31B1-45F3-B170-0F88101A0D3D}|MathsInstance\\MathsInstance.csproj|solutionrelative:mathsinstance\\mathsinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathsInstance.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\Dac Assignments\\Dotnet_Assignments\\Assignment8\\MathsInstance\\MathsInstance.cs",
+              "RelativeDocumentMoniker": "MathsInstance\\MathsInstance.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\Dac Assignments\\Dotnet_Assignments\\Assignment8\\MathsInstance\\MathsInstance.cs",
+              "RelativeToolTip": "MathsInstance\\MathsInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:00:26.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\Dac Assignments\\Dotnet_Assignments\\Assignment8\\Question18\\Program.cs",
+              "RelativeDocumentMoniker": "Question18\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\Dac Assignments\\Dotnet_Assignments\\Assignment8\\Question18\\Program.cs",
+              "RelativeToolTip": "Question18\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:17:31.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

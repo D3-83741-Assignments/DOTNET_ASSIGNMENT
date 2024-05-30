@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment_3_Q9/1.0.0": {
+        "dependencies": {
+          "Assignment_3_Q8": "1.0.0.0"
+        },
+        "runtime": {
+          "Assignment_3_Q9.dll": {}
+        }
+      },
+      "Assignment_3_Q8/1.0.0.0": {
+        "runtime": {
+          "Assignment_3_Q8.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_3_Q9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assignment_3_Q8/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

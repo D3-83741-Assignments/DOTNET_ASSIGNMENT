@@ -1,0 +1,49 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Company id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmplibraryNew/EmplibraryNew%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-3">platform pvt ltd</name>
+<address id="ref-4">pune,Hinjewadi</address>
+<empList href="#ref-5"/>
+<salaryExpense>140000</salaryExpense>
+</a1:Company>
+<a2:ArrayList id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-6"/>
+<_size>2</_size>
+<_version>4</_version>
+</a2:ArrayList>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:Employee id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmplibraryNew/EmplibraryNew%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<id>3</id>
+<salary>50000</salary>
+<designation id="ref-9">ceo</designation>
+<dept>SALES</dept>
+<Person_x002B_name id="ref-10">siddhant sharma</Person_x002B_name>
+<Person_x002B_gender>true</Person_x002B_gender>
+<Person_x002B_birth href="#ref-11"/>
+<Person_x002B_address id="ref-12">pune</Person_x002B_address>
+</a1:Employee>
+<a1:Employee id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmplibraryNew/EmplibraryNew%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<id>4</id>
+<salary>90000</salary>
+<designation id="ref-13">dev</designation>
+<dept>HR</dept>
+<Person_x002B_name id="ref-14">shubham</Person_x002B_name>
+<Person_x002B_gender>true</Person_x002B_gender>
+<Person_x002B_birth href="#ref-15"/>
+<Person_x002B_address id="ref-16">mumbai</Person_x002B_address>
+</a1:Employee>
+<a1:Date id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmplibraryNew/EmplibraryNew%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<day>16</day>
+<month>12</month>
+<year>1999</year>
+</a1:Date>
+<a1:Date id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/EmplibraryNew/EmplibraryNew%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<day>26</day>
+<month>10</month>
+<year>1998</year>
+</a1:Date>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

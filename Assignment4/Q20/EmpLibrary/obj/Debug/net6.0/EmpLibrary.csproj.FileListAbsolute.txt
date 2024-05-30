@@ -1,0 +1,12 @@
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\bin\Debug\net6.0\EmpLibrary.deps.json
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\bin\Debug\net6.0\EmpLibrary.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\bin\Debug\net6.0\EmpLibrary.pdb
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.sourcelink.json
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\refint\EmpLibrary.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\EmpLibrary.pdb
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\EmpLibrary\EmpLibrary\obj\Debug\net6.0\ref\EmpLibrary.dll

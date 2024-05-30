@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\bin\Debug\net6.0\Assignment_3_Q7.exe
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\bin\Debug\net6.0\Assignment_3_Q7.deps.json
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\bin\Debug\net6.0\Assignment_3_Q7.runtimeconfig.json
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\bin\Debug\net6.0\Assignment_3_Q7.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\bin\Debug\net6.0\Assignment_3_Q7.pdb
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.AssemblyInfo.cs
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\refint\Assignment_3_Q7.dll
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.pdb
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\Assignment_3_Q7.genruntimeconfig.cache
+C:\Users\HP\source\repos\Assignment_2\Assignment_3_Q7\obj\Debug\net6.0\ref\Assignment_3_Q7.dll

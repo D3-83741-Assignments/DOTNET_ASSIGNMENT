@@ -1,0 +1,12 @@
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\bin\Debug\net6.0\MathsInstance.deps.json
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\bin\Debug\net6.0\MathsInstance.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\bin\Debug\net6.0\MathsInstance.pdb
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.sourcelink.json
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\refint\MathsInstance.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\MathsInstance.pdb
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment8\MathsInstance\obj\Debug\net6.0\ref\MathsInstance.dll
